@@ -1,0 +1,10 @@
+
+
+
+### IntelliJ IDEA ###
+./AccessSpecifier/.idea
+./AccessSpecifier/.build
+./AccessSpecifier/gradle
+./AccessSpecifier/.gradle
+./AccessSpecifier/settings.gradle.kts
+
